@@ -54,7 +54,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Bifrost Conf, <typeout>"
 eventDate: "April 17th, 2019"
-typeoutTextValues: '"", "Leadership", "Professional Development", "Tool of the Trade"'
+typeoutTextValues: '"", "Leadership", "Tools", "Growth"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://www.papercall.io/bifrost-2019", text: "Become a speaker"}
@@ -137,6 +137,7 @@ ticketsOffers:
   ribbon: "-25%"
   buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
   buyButtonText: "Buy Now"
+  ticketContentList: ["Access to Event", "SWAG Bag", "More to come..."]
   validFrom: "2018-12-01T00:01"
   validThrough: "2019-03-01T23:59"
  -
@@ -146,7 +147,7 @@ ticketsOffers:
   ticketsNumber: "150"
   buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Access to Event", "SWAG Bag", "More to come..."]
   validFrom: "2019-03-01T00:01"
   validThrough: "2019-04-13T23:59"
   disabled: true
