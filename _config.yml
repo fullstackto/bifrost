@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Bifrost Tech Leadership Conf 2019"
-email: "comms@fsto.c"
+email: "comms@fsto.co"
 description: "Bifrost conference provides practical training for tech and team leads, managers, cto and any leader in tech!"
-baseurl: "/"
+baseurl: ""
 url: "https://bifrostconf.ca"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-48190009-9"
@@ -135,7 +135,6 @@ ticketsOffers:
   priceCurrency: "CAD"
   ticketsNumber: "50"
   ribbon: "-25%"
-  featured: true
   buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
   buyButtonText: "Buy Now"
   validFrom: "2018-12-01T00:01"
