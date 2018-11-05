@@ -10,74 +10,69 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Bifrost Tech Leadership Conf 2019"
+email: "comms@fsto.c"
+description: "Bifrost conference provides practical training for tech and team leads, managers, cto and any leader in tech!"
+baseurl: "/"
+url: "https://bifrostconf.ca"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-48190009-9"
+googleAnalyticsSiteUrl: "bifrostconf.ca"
+siteVerification: "JhnAX9iW1D2BK5xvx0jTxlb5NSWR7mlPRRf2PE473BI"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Full Stack Toronto"
+organizerAlternateName: ""
+organizerDescription: "Full Stack Toronto is a non-profit with the goal of advancing people in the web development industry."
+organizerEmail: "comms@fsto.co"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://bifrostconf.ca/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "event, leadership, technology, tech lead, team lead, manager, cto, training, workshop, conference"
+twitterAccount: "@fullstackto"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://www.papercall.io/bifrost-2019"
+c4sponsorsUrl: "/assets/biforst-sponsorship.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.papercall.io/bifrost-2019", text: "Become a speaker"}
+ - {link: "#", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.papercall.io/bifrost-2019", text: "Become a speaker"}
+ - {link: "#", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "Bifrost Conf, <typeout>"
+eventDate: "April 17th, 2019"
+typeoutTextValues: '"", "Leadership", "Professional Development", "Tool of the Trade"'
+typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.papercall.io/bifrost-2019", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Bifrost Con"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Tools", image: "conference.jpg", text: "We bring you practical and actionable talks on the tools you need to master to succeed, and tools that you can utilise to make your life a little easier as people manager and tech project lead." }
+ - {title: "Leadership", image: "workshop.jpg", text: "Advice from your peers on what works and what doesn't work when it comes to leading teams, managing projects, and more in technology." }
+ - {title: "Growth", image: "hackathon.jpg", text: "It's not all about growing your team to succeed but also your-self. This track focuses on how to keep yourself gorwing a long with your team." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "!", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "!", info: "speakers", detail: "who've got stories"}
+ - {count: "1", specialCharacter: "", info: "day", detail: "of pure engagement"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -85,24 +80,24 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Featured speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "Pantages Hotel Conference Centre"
+eventLocationLink: "https://www.pantageshotel.com/"
+eventStreetAddress: "200 Victoria St."
+eventAddressLocality: "Toronto"
+eventAddressLocalityRegion: "Ontario"
+eventPostalCode: "M5B 1V8"
+eventAddressCountry: "Canada"
+eventStartTime: "2019-04-17T08:45"
+eventDoorTime: "08:00"
+eventEndTime: "2019-04-17T18:00"
+eventPlaceCoordinates: "43.6545148, -79.3812063"
+mapCenterCoordinates: "43.6545148, -79.3812063"
+mapMobileCenterCoordinates: "43.6545148, -79.3812063"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,8 +105,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Pantages Hotel"
+venueFeatures: ["Steps from Queen Station", "Over 100 nearby restaurants", "Contemporary Style"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -121,7 +116,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -132,62 +127,37 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to the conference, coffee brakes, and assisted networking. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "199"
+  priceCurrency: "CAD"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ribbon: "-25%"
+  featured: true
+  buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  validFrom: "2018-12-01T00:01"
+  validThrough: "2019-03-01T23:59"
+ -
+  name: "General Addmission"
+  price: "249"
+  priceCurrency: "CAD"
+  ticketsNumber: "150"
+  buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
+  buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  validFrom: "2019-03-01T00:01"
+  validThrough: "2019-04-13T23:59"
+  disabled: true
 
 # Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:comms@fsto.co", text: "Email Us"}
  -
   title: "FAQ"
   links:
@@ -203,7 +173,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Bifrost Conference was started out the necessity for a place team leads, tech leads, managers, cto’s and other leaders within the tech sector can come together and share practical and actionable knowledge with their peers. Bifrost Conference is back again for it’s 3rd year in 2019 and we look forward to welcoming you to Toronto!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -213,13 +183,13 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "43.6545148, -79.3812063"
+logisticsMapMobileCenterCoordinates: "43.6545148, -79.3812063"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Toronto"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
@@ -252,7 +222,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
