@@ -70,8 +70,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "!", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "!", info: "speakers", detail: "who've got stories"}
+ - {count: "200", specialCharacter: "", info: "attendees", detail: "from around the world"}
+ - {count: "8", specialCharacter: "", info: "speakers", detail: "who've got stories"}
  - {count: "1", specialCharacter: "", info: "day", detail: "of pure engagement"}
 
 # Latest News Block
@@ -173,7 +173,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Bifrost Conference was started out the necessity for a place team leads, tech leads, managers, cto’s and other leaders within the tech sector can come together and share practical and actionable knowledge with their peers. Bifrost Conference is back again for it’s 3rd year in 2019 and we look forward to welcoming you to Toronto!"
+aboutUs: "Bifrost Conference was started to create a place for team leads, tech leads and other leaders within the tech sector to come together and share practical and actionable knowledge. Bifrost Conference is back again for it’s 3rd year in 2019 and we look forward to welcoming you to Toronto for our unique take on event planing and programming!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -201,19 +201,19 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.pantageshotel.com/", text: "Pantages"}
+     - {link: "https://www.bondplace.ca/", text: "Bond Place"}
+     - {link: "https://www.thestrathconahotel.com/", text: "Strathcona Hotel"}
+     - {link: "https://www.hotelvictoria-toronto.com/", text: "Hotel Victoria"}
    -
-    title: "Registration"
+    title: "Restaurants"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "#", text: "Frans"}
+     - {link: "#", text: "Subway"}
+     - {link: "#", text: "Eaton Centre Food Court"}
+     - {link: "#", text: "Popeye's"}
    -
-    title: "Attendance Details"
+    title: "Networking"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
