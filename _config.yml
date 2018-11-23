@@ -131,7 +131,7 @@ ticketsInfo: "Tickets grant access to the conference, coffee brakes, and assiste
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "199"
+  price: "149"
   priceCurrency: "CAD"
   ticketsNumber: "50"
   ribbon: "-25%"
@@ -142,7 +142,7 @@ ticketsOffers:
   validThrough: "2019-03-01T23:59"
  -
   name: "General Addmission"
-  price: "249"
+  price: "199"
   priceCurrency: "CAD"
   ticketsNumber: "150"
   buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
