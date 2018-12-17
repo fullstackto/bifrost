@@ -9,3 +9,49 @@
   rockstar: true
   social:
     - {name: "Twitter", link: "#"}
+-
+  id: 2
+  name: "Usman"
+  surname: "Ismail"
+  company: "Wealthsimple"
+  title: "Accounting Engineering Lead"
+  bio: "Usman leads the accounting engineering team at Wealthsimple to build systems responsible for tracking billions of dollars of assets and process hundreds of millions of financial transactions. Prior to this, Usman has held various senior engineering positions at Amazon, EA and Kik. Prior to this Usman received his M.Math from the Cheriton School of Computer Science at the University of Waterloo. During this time he was a member of the Networks and Distributed Systems (NDS) research group specializing in Wireless Networks and Voice Over IP."
+  thumbnailUrl: usman.jpg
+  rockstar: true
+  social:
+    - {name: "Twitter", link: "https://twitter.com/usman_ismail"}
+-
+  id: 3
+  name: "Stacey"
+  surname: "Jenkins"
+  company: "Fort Wayne Police Department"
+  title: "Homicide Detective"
+  bio: "As a Homicide Detective and Hostage Negotiator, Stacey not only uses ACTIVE LISTENING SKILLS (ALS) in situations of crisis involving expressive individuals, he also uses the skills to help resolve everyday life and business situations.
+
+This presentation will allow businesses to use the TEAM PROJECT MODEL to help their team members cooperate with each other, with the focus on utilizing distinctive intensities within individual elements among members of a team.
+
+Stacey’s presentation will illustrate that the above model is acceptable. However, a team will not communicate effectively if a team that has been taken apart and separated due to disconnection and lack of communication."
+  thumbnailUrl: stacey.jpg
+  rockstar: true
+-
+  id: 4
+  name: "Kenzie"
+  surname: "Woodbridge"
+  company: "BCIT"
+  title: "Systems Analyst"
+  bio: "Kenzie works at BCIT, as a Systems Analyst, Web Developer, Knowledge Base Administrator and Technical Writer, and Community Manager. Kenzie has a passion for communication, continuous iterative improvement, and for systemic solutions to systemic problems. Kenzie has previously spoken at PSEWeb, BCNET, Write the Docs, the International Conference on Communication & Media Studies, the Association of Internet Research Conference, DevOpsDays, and STC InterChange, and recently completed a Master’s degree in Professional Communication, having written their thesis on prosocial community within Minecraft multiplayer servers.
+
+After long debate and discussion, it has been decided that Kenzie would, at the age of 11, likely have been sorted into Gryffindor, though there are arguments to made for every house."
+  thumbnailUrl: kenzie.jpg
+  rockstar: true
+  social:
+    - {name: "Twitter", link: "https://twitter.com/rainbowkenz"}
+-
+  id: 5
+  name: "Gabe"
+  surname: "Perez"
+  company: "Intuit"
+  title: "Principal Software Developer"
+  bio: "I am a software developer with 20 years of experience. Over this time I’ve worked with languages such as Delphi (yes, I’m old), Ruby, .NET, NodeJS and Java. I’ve also done my share of people management and found that really wasn’t for me. Writing and designing software is my true calling. I was lucky enough to have great mentors early on in my career and these days, sharing my passion and hopefully inspiring the next generation of developers is one of the top goals."
+  thumbnailUrl: gabe.jpg
+  rockstar: false

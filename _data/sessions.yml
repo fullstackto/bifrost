@@ -24,3 +24,33 @@
   title: "A Personal development Talk"
   description: "This session will information will come soon but this time is reserved for a talk on how to keep growing yourself"
   speakers: [1]
+-
+  id: 104
+  title: "Givers and Takers, how we can use receprocity to identify and become better leaders"
+  description: "This talk covers the work of Adam Grant and Malcom Gladwell and others in defining how a giving personality is actually a marker for successful leaders. Contrary to popular belief, underhanded tactics and back-stabbing behavior rarely leads to progress in the corporate setting. In addition once people get in positions of leadership they need to leverage trust relationships they have built over time to succeed in their new role. This can be difficult for leaders who have burnt relationships on the way up. Being a good public speaker is not enough to assume a leader will be able to motivate and direct a team. Instead whether the team is able to trust and sacrifice for the leader is paramount. This makes it important to look for the right kind of personality when selecting leaders. We often mistake agreeableness a giving attitude, disagreeable people can also be givers. Further disagreeable people are important in providing alternate perspectives, checking our blind spots and holding us accountable."
+  speakers: [2]
+-
+  id: 105
+  title: "Understanding and Improving Communication Skills: Using FBI Techniques"
+  description: "As with all teams, each team was placed together because at the initial conception of the team; it was assumed that the team element is within the excellent working order. However, the appreciation of the team model must be well-oiled, and if not, members of the team will individually lack the proper function that is necessitated for TEAMWORK and fail to produce.
+
+RESEARCH HAS PROVEN THAT THE KEY CATALYST REGARDING TEAM FAILURE IS COMMUNICATION AND THE LACK OF PROPER USAGE OF ONE’S COMMUNICATION SKILLS.
+
+By using ACTIVE LISTENING SKILLS (ALS), a method developed by the FBI, every team member will increase productivity regarding their specific missions, and when united, the team members will form successful finalization of their team-goal. By applying ALS, the team’s entire task will be the result of a collective productive representation of their work."
+  speakers: [3]
+-
+  id: 106
+  title: "Technical Documentation: Everyone's a player (in a mid-90s MUD)"
+  description: "Other people: sometimes difficult to work with and often impossible to predict. In your technical or documentation project, how can you get the right people interested and involved? How can you keep those people happily engaged until the work is done? Is there anything you can do to prevent griefing… err, “interpersonal difficulties” from causing delays? And why do some people seem to thrive in an environment with poor documentation and how can you encourage them to participate in effectively documenting everything anyway?
+
+In this talk, I’ll explore ways to accomplish these aims, using strategies drawn from “Player Type Theory”. For 20 years, this theory has been employed by game designers to encourage stable long-term play communities in online multiplayer games. These are strategies that I have used successfully in my workplace and they can work for you too."
+  speakers: [4]
+-
+  id: 107
+  title: "Helping Teams Thrive in Legacy Codebases"
+  description: "All software eventually becomes legacy software. Maintenance lifespans may differ, but even if your new project uses serverless, machine learning and blockchain, it will shortly become legacy software.
+
+Developers often see legacy code only as a source of tech debt, and maintaining it as the least interesting part of the their jobs. Since the majority of development time is spent maintaining existing code, these preconceptions often lead to dissatisfaction and a lack of engagement.
+
+I’ve spent 20 years of my career working in legacy codebases, and learned to see system maintenance as a valuable opportunity for learning and improvement. In this talk we’ll explore how to help your team learn these lessons so they thrive, attracting and retaining top talent."
+  speakers: [5]
