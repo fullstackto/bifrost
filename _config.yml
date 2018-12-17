@@ -44,11 +44,11 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://www.papercall.io/bifrost-2019", text: "Become a speaker"}
- - {link: "#", text: "Become a sponsor"}
+ - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
+ - {link: "mailto: james.wilkinson@fsto.co", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "https://www.papercall.io/bifrost-2019", text: "Become a speaker"}
- - {link: "#", text: "Become a sponsor"}
+ - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
+ - {link: "mailto: james.wilkinson@fsto.co", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero.jpg"
