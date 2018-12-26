@@ -55,3 +55,47 @@ After long debate and discussion, it has been decided that Kenzie would, at the 
   bio: "I am a software developer with 20 years of experience. Over this time I’ve worked with languages such as Delphi (yes, I’m old), Ruby, .NET, NodeJS and Java. I’ve also done my share of people management and found that really wasn’t for me. Writing and designing software is my true calling. I was lucky enough to have great mentors early on in my career and these days, sharing my passion and hopefully inspiring the next generation of developers is one of the top goals."
   thumbnailUrl: gabe.jpg
   rockstar: false
+-
+  id: 6
+  name: "Patric"
+  surname: "Pena"
+  company: ""
+  title: "Engineering Manager"
+  bio: "Patrick has spent his career applying his engineering talents to the healthcare industry. In that time he’s focused on learning and growing as an engineer, a teammate, team lead, and more recently as an engineering manager. He considers himself a people gardener and coalition builder and believes in people-first leadership. Patrick loves tackling people and process opportunities to helping teams and individuals grow."
+  thumbnailUrl: patric.jpg
+  rockstar: false
+  social:
+    - {name: "Twitter", link: "https://twitter.com/patrickjpena"}
+-
+  id: 7
+  name: "Jamie"
+  surname: "Riedesel"
+  company: "HelloSign"
+  title: "DevOps Engineer"
+  bio: "Jamie Riedesel is a DevOps Engineer at HelloSign and has been performing acts of systems administration and engineering since 1997. She moved from corporate IT to the startup space in 2010 and experienced the good kind of culture shock. Jamie has been blogging as sysadmin1138 since 2004, a community elected moderator on ServerFault since 2010, and awarded the Chuck Yerkes community award by LOPSA in 2015."
+  thumbnailUrl: jamie.jpg
+  rockstar: true
+  social:
+    - {name: "Twitter", link: "https://twitter.com/sysadm1138"}
+-
+  id: 8
+  name: "Anjuan"
+  surname: "Simmons"
+  company: ""
+  title: ""
+  bio: "Anjuan Simmons is a technologist with a successful track record of delivering technology solutions from the user interface to the database. He is an energetic and informative speaker who presents at conferences, seminars, schools, and community centers around the world on topics including Agile software development, diversity, and leadership. Anjuan has an undergraduate degree in electrical engineering from the University of Texas at Austin and an MBA from Texas A&M University."
+  thumbnailUrl: anjuan.jpg
+  rockstar: true
+  social:
+    - {name: "Twitter", link: "https://twitter.com/anjuan"}
+-
+  id: 9
+  name: "Anthony"
+  surname: "Morra"
+  company: ""
+  title: ""
+  bio: "Anthony Morra is a Toronto-based entrepreneur and practitioner of positive psychology in the workplace. He has years of experience in change-management consulting and coaching high-performance athletes. He has been part of Beaconforce since the start of the company and hopes to make people’s lives better by creating more enjoyable environments, based on applications of the most relevant science. Anthony grew up in Scarborough, holds an BBA from the University of Toronto and an MBA from Hult International Business School."
+  thumbnailUrl: anthony.jpg
+  rockstar: false
+  social:
+    - {name: "Twitter", link: "https://twitter.com/thebeaconforce"}
