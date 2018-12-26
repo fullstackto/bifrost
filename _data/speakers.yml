@@ -6,7 +6,7 @@
   title: "Placeholder Speaker"
   bio: "A speaker bio goes here"
   thumbnailUrl: tba.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "Twitter", link: "#"}
 -

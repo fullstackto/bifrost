@@ -57,8 +57,8 @@ eventDate: "April 17th, 2019"
 typeoutTextValues: '"", "Leadership", "Tools", "Growth"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://www.papercall.io/bifrost-2019", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+  - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
+  - {link: "mailto: james.wilkinson@fsto.co", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About Bifrost Con"
