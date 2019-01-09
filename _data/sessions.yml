@@ -1,13 +1,28 @@
 -
-  id: 307
+  id: 900
   title: "Coffee Break"
   place: "Back of Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
+  id: 901
   title: "Lunch Break"
   place: "On your Own"
+  service: true
+-
+  id: 902
+  title: "Registration"
+  place: "2nd Floor Lobby"
+  service: true
+-
+  id: 903
+  title: "Closing Remarks"
+  place: "Main Hall"
+  service: true
+-
+  id: 904
+  title: "Opening Remarks"
+  place: "Main Hall"
   service: true
 -
   id: 101
