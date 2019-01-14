@@ -34,7 +34,7 @@ twitterAccount: "@fullstackto"
 
 # Documents
 c4pUrl: "https://www.papercall.io/bifrost-2019"
-c4sponsorsUrl: "/assets/biforst-sponsorship.pdf"
+c4sponsorsUrl: "assets/bifrostsponsorship.pdf"
 
 
 # Navigation
@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
- - {link: "mailto: james.wilkinson@fsto.co", text: "Become a sponsor"}
+ - {link: "assets/bifrostsponsorship.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
  - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
  - {link: "mailto: james.wilkinson@fsto.co", text: "Become a sponsor"}
@@ -58,7 +58,7 @@ typeoutTextValues: '"", "Leadership", "Tools", "Growth"'
 typeoutFallback: ""
 heroButtons:
   - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
-  - {link: "mailto: james.wilkinson@fsto.co", text: "Become a sponsor"}
+  - {link: "assets/bifrostsponsorship.pdf", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About Bifrost Con"
@@ -71,7 +71,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "", info: "attendees", detail: "from around the world"}
- - {count: "8", specialCharacter: "", info: "speakers", detail: "who've got stories"}
+ - {count: "10", specialCharacter: "", info: "speakers", detail: "who've got stories"}
  - {count: "1", specialCharacter: "", info: "day", detail: "of pure engagement"}
 
 # Latest News Block
