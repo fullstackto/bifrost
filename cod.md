@@ -5,16 +5,28 @@ permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+<h2>Our Commitment to All</h2>
+<p>All attendees, speakers, sponsors and volunteers at Full stack Toronto events are required to agree with the following code of conduct. Organizers will enforce this code throughout events. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.</p>
 
+<p>Our events are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof), and technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, parties, Twitter and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers.</p>
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+<p>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.</p>
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+<p>Participants asked to stop any harassing behavior are expected to comply immediately.</p>
 
+<p>Sponsors and Speakers are also subject to the anti-harassment policy. In particular they should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.</p>
 
-######Contacts:
+<p>If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund.</p>
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+<p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a staff member immediately (comms@fsto.co). Staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of events. We value your attendance.</p>
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<p>We expect participants to follow these rules at all Full Stack Toronto related events and social events. You can now enter code coc into the app to win 5 points.</p>
+
+<p>Adapted from http://confcodeofconduct.com/</p>
+
+<h2>Non-Commercial Policy</h2>
+<p>Full Stack Toronto programs are non-commercial events. The Full Stack Toronto podium is not to be used as a place for direct promotion of a product, service or monetary self-interest nor for endorsing or discrediting others’ products or services. Presenters should refrain from talking in depth about paid products and services. We also ask that you keep any recruiting to the networking portions of events and not in talks. If you would like to reach our awesome attendees to recruit them please contact sponsorship@fsto.co</p>
+
+<p>In accordance with Full Stack Toronto’s non-commercial policy, distributing company literature or price lists and engaging in sales transactions as part of an event is prohibited unless agreed upon in a sponsorship agreement. (Note: This prohibition does not include the use of graphic material used to illustrate technological concepts described during presentations.)</p>
+
+<p>If you have any questions or concerns please reach out to us at comms@fsto.co</p>
