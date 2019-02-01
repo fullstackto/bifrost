@@ -99,3 +99,20 @@ After long debate and discussion, it has been decided that Kenzie would, at the 
   rockstar: false
   social:
     - {name: "Twitter", link: "https://twitter.com/thebeaconforce"}
+  -
+    id: 10
+    name: "Dr. Rochelle"
+    surname: "Carr"
+    company: "Path Forward Empowerment"
+    title: "Founder and CEO"
+    bio: "Dr. Rochelle Carr is a dynamic leadership and development consultant who brings to the table a veritable salt shaker of expertise as a minister, business leader, certified coach, teacher, trainer and speaker, fundraiser, and all-round motivator.
+
+As Founder and CEO of Path Forward Empowerment, Dr. Carr’s mission is to deliver a passport to self-leadership for her clients through positive thinking, spirituality, and shaking off unproductive habits that get in the way of achieving goals. She works closely with small businesses and students on leadership modeling, as well as helping faith-based organizations whose members reside in high-needs and limited resource areas to revamp their ministries to fit the needs of changing communities.
+
+In addition to presenting at influential ideological platforms such as TEDX and at educational and spiritual proceedings, Dr. Carr has been thrilled to present with or introduce several notable public figures including Hillary Clinton, civil rights activist Rev. Jesse Jackson, and social activist Dr. Cornel West. Dr. Carr is the author of, How to Overcome a Malnourished Soul 30-day Meditational Journey to Reconnect and Rejuvenate.
+
+Although we are not all born to be leaders, Dr. Carr believes that everyone has the ability to take charge and be the leader of their own story. By drawing on her extensive academic, ministerial, business, and coaching expertise, Dr. Carr delivers heartfelt consulting services that are empathetic, invigorating, and highly-effective."
+    thumbnailUrl: rochelle.jpg
+    rockstar: true
+    social:
+      - {name: "Twitter", link: "https://twitter.com/drrochellecarr"}
