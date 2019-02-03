@@ -78,17 +78,6 @@ After long debate and discussion, it has been decided that Kenzie would, at the 
   social:
     - {name: "Twitter", link: "https://twitter.com/sysadm1138"}
 -
-  id: 8
-  name: "Anjuan"
-  surname: "Simmons"
-  company: ""
-  title: ""
-  bio: "Anjuan Simmons is a technologist with a successful track record of delivering technology solutions from the user interface to the database. He is an energetic and informative speaker who presents at conferences, seminars, schools, and community centers around the world on topics including Agile software development, diversity, and leadership. Anjuan has an undergraduate degree in electrical engineering from the University of Texas at Austin and an MBA from Texas A&M University."
-  thumbnailUrl: anjuan.jpg
-  rockstar: true
-  social:
-    - {name: "Twitter", link: "https://twitter.com/anjuan"}
--
   id: 9
   name: "Anthony"
   surname: "Morra"
