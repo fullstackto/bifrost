@@ -92,15 +92,5 @@
     - {
     	startTime: "4:00",
     	endTime: "4:20",
-    	sessionIds: [900]
-    }
-    - {
-    	startTime: "4:20",
-    	endTime: "4:50",
-    	sessionIds: [102]
-    }
-    - {
-    	startTime: "4:50",
-    	endTime: "5:00",
     	sessionIds: [903]
     }
