@@ -130,13 +130,13 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to the conference, coffee brakes, and assisted networking. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "General Addmission"
-  price: "199"
+  name: "Late Access"
+  price: "99"
   priceCurrency: "CAD"
-  ticketsNumber: "150"
+  ticketsNumber: "41"
   buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to Event", "SWAG Bag", "More to come..."]
+  ticketContentList: ["Access to Event"]
   validFrom: "2019-03-01T00:01"
   validThrough: "2019-04-13T23:59"
   disabled: false
