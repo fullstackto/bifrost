@@ -1,15 +1,4 @@
 -
-  id: 1
-  name: "Placeholder"
-  surname: "Speaker"
-  company: "Placeholder Co."
-  title: "Placeholder Speaker"
-  bio: "A speaker bio goes here"
-  thumbnailUrl: tba.jpg
-  rockstar: false
-  social:
-    - {name: "Twitter", link: "#"}
--
   id: 2
   name: "Usman"
   surname: "Ismail"

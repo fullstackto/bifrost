@@ -25,21 +25,6 @@
   place: "Main Hall"
   service: true
 -
-  id: 101
-  title: "A Leadership Talk"
-  description: "This session will information will come soon but this time is reserved for a talk on leadership techniques"
-  speakers: [1]
--
-  id: 102
-  title: "A Tools Talk"
-  description: "This session will information will come soon but this time is reserved for a talk on tools to help you lead"
-  speakers: [1]
--
-  id: 103
-  title: "A Personal development Talk"
-  description: "This session will information will come soon but this time is reserved for a talk on how to keep growing yourself"
-  speakers: [1]
--
   id: 104
   title: "Givers and Takers, how we can use receprocity to identify and become better leaders"
   description: "This talk covers the work of Adam Grant and Malcom Gladwell and others in defining how a giving personality is actually a marker for successful leaders. Contrary to popular belief, underhanded tactics and back-stabbing behavior rarely leads to progress in the corporate setting. In addition once people get in positions of leadership they need to leverage trust relationships they have built over time to succeed in their new role. This can be difficult for leaders who have burnt relationships on the way up. Being a good public speaker is not enough to assume a leader will be able to motivate and direct a team. Instead whether the team is able to trust and sacrifice for the leader is paramount. This makes it important to look for the right kind of personality when selecting leaders. We often mistake agreeableness a giving attitude, disagreeable people can also be givers. Further disagreeable people are important in providing alternate perspectives, checking our blind spots and holding us accountable."

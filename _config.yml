@@ -71,7 +71,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "", info: "attendees", detail: "from around the world"}
- - {count: "7", specialCharacter: "", info: "speakers", detail: "who've got stories"}
+ - {count: "8", specialCharacter: "", info: "speakers", detail: "who've got stories"}
  - {count: "1", specialCharacter: "", info: "day", detail: "of pure engagement"}
 
 # Latest News Block
