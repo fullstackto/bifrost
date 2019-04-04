@@ -1,4 +1,4 @@
 -
   group: "Special Thanks"
   elements:
-    - {name: "Tito", description: "Tito", link: "ti.to", imageUrl: "tito.svg"}
+    - {name: "Tito", description: "Tito", link: "ti.to", imageUrl: "tito-machine.jpg"}
