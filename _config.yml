@@ -42,7 +42,6 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
  - {link: "assets/bifrostsponsorship.pdf", text: "Become a sponsor"}
