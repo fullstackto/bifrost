@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Bifrost Tech Leadership Conf 2019"
+title: "Bifrost Conf 2020 | Connecting Leaders"
 email: "comms@fsto.co"
-description: "Bifrost conference provides practical training for tech and team leads, managers, cto and any leader in tech!"
+description: "Bifrost conference provides practical training for leaders in web development and those that want to become one!"
 baseurl: ""
 url: "https://bifrostconf.com"
 permalink: "/blog/:title"
@@ -29,7 +29,7 @@ organizerLogo: "/img/organizers/james.jpg"
 organizerLink: "http://bifrostconf.ca/"
 
 # Head
-metaKeywords: "event, leadership, technology, tech lead, team lead, manager, cto, training, workshop, conference"
+metaKeywords: "event, leadership, technology, tech lead, team lead, manager, cto, training, workshop, conference, lead dev, lead dev conference, tech lead, principle developer, principal developer, staff developer, engineer"
 twitterAccount: "@fullstackto"
 
 # Documents
