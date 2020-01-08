@@ -20,3 +20,14 @@
     rockstar: true
     social:
     - {name: "Twitter", link: "https://twitter.com/anjuan"}
+-
+    id: 3
+    name: "Aneika"
+    surname: "Simmons"
+    company: "Sam Houston State University"
+    title: "Business Professor"
+    bio: "Dr. Aneika Simmons is a Professor at Sam Houston State University. Her research interests are primarily related to creative performance, fairness, diversity issues, and individual differences. Dr. Simmons teaches courses about teamwork, leadership, organization behavior, and human resources at Sam Houston State University. As an academic, she presents her research at both domestic and international conferences. Dr. Simmons completed her doctorate degree in Organizational Behavior and Human Resources at Texas A&M University. She also has a Master’s degree in Organizational Communication from the University of Houston. Further, she obtained her undergraduate degree in Management Information Systems at the McCombs Business School of the University of Texas at Austin."
+    thumbnailUrl: aneika.jpg
+    rockstar: true
+    social:
+    - {name: "Twitter", link: "https://twitter.com/aneika"}
