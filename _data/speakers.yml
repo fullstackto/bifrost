@@ -1,96 +1,11 @@
 -
-  id: 2
-  name: "Usman"
-  surname: "Ismail"
-  company: "Wealthsimple"
-  title: "Accounting Engineering Lead"
-  bio: "Usman leads the accounting engineering team at Wealthsimple to build systems responsible for tracking billions of dollars of assets and process hundreds of millions of financial transactions. Prior to this, Usman has held various senior engineering positions at Amazon, EA and Kik. Prior to this Usman received his M.Math from the Cheriton School of Computer Science at the University of Waterloo. During this time he was a member of the Networks and Distributed Systems (NDS) research group specializing in Wireless Networks and Voice Over IP."
-  thumbnailUrl: usman.jpg
-  rockstar: true
-  social:
-    - {name: "Twitter", link: "https://twitter.com/usman_ismail"}
--
-  id: 3
-  name: "Stacey"
-  surname: "Jenkins"
-  company: "Fort Wayne Police Department"
-  title: "Homicide Detective"
-  bio: "As a Homicide Detective and Hostage Negotiator, Stacey not only uses ACTIVE LISTENING SKILLS (ALS) in situations of crisis involving expressive individuals, he also uses the skills to help resolve everyday life and business situations.
-
-This presentation will allow businesses to use the TEAM PROJECT MODEL to help their team members cooperate with each other, with the focus on utilizing distinctive intensities within individual elements among members of a team.
-
-Stacey’s presentation will illustrate that the above model is acceptable. However, a team will not communicate effectively if a team that has been taken apart and separated due to disconnection and lack of communication."
-  thumbnailUrl: stacey.jpg
-  rockstar: true
--
-  id: 4
-  name: "Kenzie"
-  surname: "Woodbridge"
-  company: "BCIT"
-  title: "Systems Analyst"
-  bio: "Kenzie works at BCIT, as a Systems Analyst, Web Developer, Knowledge Base Administrator and Technical Writer, and Community Manager. Kenzie has a passion for communication, continuous iterative improvement, and for systemic solutions to systemic problems. Kenzie has previously spoken at PSEWeb, BCNET, Write the Docs, the International Conference on Communication & Media Studies, the Association of Internet Research Conference, DevOpsDays, and STC InterChange, and recently completed a Master’s degree in Professional Communication, having written their thesis on prosocial community within Minecraft multiplayer servers.
-
-After long debate and discussion, it has been decided that Kenzie would, at the age of 11, likely have been sorted into Gryffindor, though there are arguments to made for every house."
-  thumbnailUrl: kenzie.jpg
-  rockstar: true
-  social:
-    - {name: "Twitter", link: "https://twitter.com/rainbowkenz"}
--
-  id: 5
-  name: "Gabe"
-  surname: "Perez"
-  company: "Intuit"
-  title: "Principal Software Developer"
-  bio: "I am a software developer with 20 years of experience. Over this time I’ve worked with languages such as Delphi (yes, I’m old), Ruby, .NET, NodeJS and Java. I’ve also done my share of people management and found that really wasn’t for me. Writing and designing software is my true calling. I was lucky enough to have great mentors early on in my career and these days, sharing my passion and hopefully inspiring the next generation of developers is one of the top goals."
-  thumbnailUrl: gabe.jpg
-  rockstar: false
--
-  id: 6
-  name: "Patrick"
-  surname: "Pena"
-  company: ""
-  title: "Engineering Manager"
-  bio: "Patrick has spent his career applying his engineering talents to the healthcare industry. In that time he’s focused on learning and growing as an engineer, a teammate, team lead, and more recently as an engineering manager. He considers himself a people gardener and coalition builder and believes in people-first leadership. Patrick loves tackling people and process opportunities to helping teams and individuals grow."
-  thumbnailUrl: patric.jpg
-  rockstar: false
-  social:
-    - {name: "Twitter", link: "https://twitter.com/patrickjpena"}
--
-  id: 7
-  name: "Jamie"
-  surname: "Riedesel"
-  company: "HelloSign"
-  title: "DevOps Engineer"
-  bio: "Jamie Riedesel is a DevOps Engineer at HelloSign and has been performing acts of systems administration and engineering since 1997. She moved from corporate IT to the startup space in 2010 and experienced the good kind of culture shock. Jamie has been blogging as sysadmin1138 since 2004, a community elected moderator on ServerFault since 2010, and awarded the Chuck Yerkes community award by LOPSA in 2015."
-  thumbnailUrl: jamie.jpg
-  rockstar: true
-  social:
-    - {name: "Twitter", link: "https://twitter.com/sysadm1138"}
--
-  id: 9
-  name: "Anthony"
-  surname: "Morra"
-  company: ""
-  title: ""
-  bio: "Anthony Morra is a Toronto-based entrepreneur and practitioner of positive psychology in the workplace. He has years of experience in change-management consulting and coaching high-performance athletes. He has been part of Beaconforce since the start of the company and hopes to make people’s lives better by creating more enjoyable environments, based on applications of the most relevant science. Anthony grew up in Scarborough, holds an BBA from the University of Toronto and an MBA from Hult International Business School."
-  thumbnailUrl: anthony.jpg
-  rockstar: false
-  social:
-    - {name: "Twitter", link: "https://twitter.com/thebeaconforce"}
--
-  id: 10
-  name: "Dr. Rochelle"
-  surname: "Carr"
-  company: "Path Forward Empowerment"
-  title: "Founder and CEO"
-  bio: "Dr. Rochelle Carr is a dynamic leadership and development consultant who brings to the table a veritable salt shaker of expertise as a minister, business leader, certified coach, teacher, trainer and speaker, fundraiser, and all-round motivator.
-
-As Founder and CEO of Path Forward Empowerment, Dr. Carr’s mission is to deliver a passport to self-leadership for her clients through positive thinking, spirituality, and shaking off unproductive habits that get in the way of achieving goals. She works closely with small businesses and students on leadership modeling, as well as helping faith-based organizations whose members reside in high-needs and limited resource areas to revamp their ministries to fit the needs of changing communities.
-
-In addition to presenting at influential ideological platforms such as TEDX and at educational and spiritual proceedings, Dr. Carr has been thrilled to present with or introduce several notable public figures including Hillary Clinton, civil rights activist Rev. Jesse Jackson, and social activist Dr. Cornel West. Dr. Carr is the author of, How to Overcome a Malnourished Soul 30-day Meditational Journey to Reconnect and Rejuvenate.
-
-Although we are not all born to be leaders, Dr. Carr believes that everyone has the ability to take charge and be the leader of their own story. By drawing on her extensive academic, ministerial, business, and coaching expertise, Dr. Carr delivers heartfelt consulting services that are empathetic, invigorating, and highly-effective."
-  thumbnailUrl: rochell.jpg
-  rockstar: true
-  social:
-    - {name: "Twitter", link: "https://twitter.com/drrochellecarr"}
+    id: 1
+    name: "Placeholder"
+    surname: "Speaker"
+    company: "Placeholder Co."
+    title: "Placeholder Speaker"
+    bio: "A speaker bio goes here"
+    thumbnailUrl: tba.jpg
+    rockstar: true
+    social:
+    - {name: "Twitter", link: "#"}

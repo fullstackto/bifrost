@@ -1,4 +1,4 @@
 -
-  group: "Main organizer"
+  group: "Our Team"
   elements:
-    - {name: "Full Stack Toronto", description: "Full Stack Toronto is a non-profit with the goal to advance people in web development roles", link: "https://fsto.co", imageUrl: "fsto.png"}
+    - {name: "James Wilkinson", description: "James (they/them,he/him) is a Sr. Developer with over 10 years experience, and for the last 6 years has been organizing events for developers like you!", link: "#", imageUrl: "james.jpg"}

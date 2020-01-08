@@ -14,18 +14,18 @@ title: "Bifrost Tech Leadership Conf 2019"
 email: "comms@fsto.co"
 description: "Bifrost conference provides practical training for tech and team leads, managers, cto and any leader in tech!"
 baseurl: ""
-url: "https://bifrostconf.ca"
+url: "https://bifrostconf.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-48190009-9"
-googleAnalyticsSiteUrl: "bifrostconf.ca"
+googleAnalyticsSiteUrl: "bifrostconf.com"
 siteVerification: "JhnAX9iW1D2BK5xvx0jTxlb5NSWR7mlPRRf2PE473BI"
 
 # Organizer Info
-organizerName: "Full Stack Toronto"
-organizerAlternateName: ""
-organizerDescription: "Full Stack Toronto is a non-profit with the goal of advancing people in the web development industry."
-organizerEmail: "comms@fsto.co"
-organizerLogo: "/img/organizers/fsto.png"
+organizerName: "James Wilkinson"
+organizerAlternateName: "James Wilkinson"
+organizerDescription: "James has been organizing events for 6 years, focusing on content first!."
+organizerEmail: "james@jerw.ca"
+organizerLogo: "/img/organizers/james.jpg"
 organizerLink: "http://bifrostconf.ca/"
 
 # Head
@@ -33,7 +33,7 @@ metaKeywords: "event, leadership, technology, tech lead, team lead, manager, cto
 twitterAccount: "@fullstackto"
 
 # Documents
-c4pUrl: "https://www.papercall.io/bifrost-2019"
+c4pUrl: "https://www.papercall.io/bifrost-2020"
 c4sponsorsUrl: "assets/bifrostsponsorship.pdf"
 
 
@@ -43,34 +43,35 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
 bottomNavigationLinks:
- - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
+ - {link: "https://ti.to/fstoco/bifrost-conf-2020", text: "Buy tickets"}
  - {link: "assets/bifrostsponsorship.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
+ - {link: "https://ti.to/fstoco/bifrost-conf-2020", text: "Buy tickets"}
  - {link: "mailto: james.wilkinson@fsto.co", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Bifrost Conf, <typeout>"
-eventDate: "April 17th, 2019"
-typeoutTextValues: '"", "Leadership", "Tools", "Growth"'
-typeoutFallback: ""
+eventDate: "May 21st, 2020"
+typeoutTextValues: '"for team leads", "for tech leads", "for dev managers", "for you to become one!"'
+typeoutFallback: "Leadership"
 heroButtons:
-  - {link: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference", text: "Buy tickets"}
+  - {link: "https://ti.to/fstoco/bifrost-conf-2020", text: "Register to Attend"}
+  - {link: "https://www.papercall.io/bifrost-2020", text: "Become a Speaker!"}
   - {link: "assets/bifrostsponsorship.pdf", text: "Become a sponsor"}
 
 # About Block
-aboutTitle: "About Bifrost Con"
+aboutTitle: "The Bifrost connects us, so do Leaders!"
 aboutBlock:
- - {title: "Tools", image: "conference.jpg", text: "We bring you practical and actionable talks on the tools you need to master to succeed, and tools that you can utilise to make your life a little easier as people manager and tech project lead." }
- - {title: "Leadership", image: "workshop.jpg", text: "Advice from your peers on what works and what doesn't work when it comes to leading teams, managing projects, and more in technology." }
- - {title: "Growth", image: "hackathon.jpg", text: "It's not all about growing your team to succeed but also your-self. This track focuses on how to keep yourself gorwing a long with your team." }
+ - {title: "Tools", image: "conference.jpg", text: "We bring you practical and actionable talks on the tools you need to succeed, and tools that you can utilise to make your life a little easier as a people manager or tech lead." }
+ - {title: "Leadership", image: "workshop.jpg", text: "Advice from your peers on what works and what doesn't when it comes to leading teams, managing projects, and architecting." }
+ - {title: "Growth", image: "hackathon.jpg", text: "It's not all about growing your team to succeed but also your-self. This track focuses on how to keep yourself growing with your team." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "", info: "attendees", detail: "from around the world"}
- - {count: "8", specialCharacter: "", info: "speakers", detail: "who've got stories"}
+ - {count: "220", specialCharacter: "", info: "attendees", detail: "from around the world"}
+ - {count: "10", specialCharacter: "", info: "speakers", detail: "to learn from"}
  - {count: "1", specialCharacter: "", info: "day", detail: "of pure engagement"}
 
 # Latest News Block
@@ -91,9 +92,9 @@ eventAddressLocality: "Toronto"
 eventAddressLocalityRegion: "Ontario"
 eventPostalCode: "M5B 1V8"
 eventAddressCountry: "Canada"
-eventStartTime: "2019-04-17T08:45"
-eventDoorTime: "08:00"
-eventEndTime: "2019-04-17T18:00"
+eventStartTime: "2020-05-21T08:00"
+eventDoorTime: "07:30"
+eventEndTime: "2020-05-20T18:00"
 eventPlaceCoordinates: "43.6545148, -79.3812063"
 mapCenterCoordinates: "43.6545148, -79.3812063"
 mapMobileCenterCoordinates: "43.6545148, -79.3812063"
@@ -122,23 +123,34 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around end of January. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Registration"
 ticketsInfo: "Tickets grant access to the conference, coffee brakes, and assisted networking. Accommodation is NOT included in the ticket price."
 ticketsOffers:
- -
-  name: "Late Access"
-  price: "99"
-  priceCurrency: "CAD"
-  ticketsNumber: "41"
-  buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Access to Event"]
-  validFrom: "2019-03-01T00:01"
-  validThrough: "2019-04-13T23:59"
-  disabled: false
+    -
+        name: "Early Bird"
+        price: "199"
+        priceCurrency: "CAD"
+        ticketsNumber: "100"
+        buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
+        buyButtonText: "Buy Now"
+        ticketContentList: ["Breakfast", "Access to Event", "Useful Swag", "Networking Opportunities"]
+        validFrom: "2020-01-17T00:01"
+        validThrough: "2020-03-21T23:59"
+        disabled: false
+    -
+        name: "General Registration"
+        price: "299"
+        priceCurrency: "CAD"
+        ticketsNumber: "100"
+        buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
+        buyButtonText: "Buy Now"
+        ticketContentList: ["Breakfast", "Access to Event", "Useful Swag", "Networking Opportunities"]
+        validFrom: "2020-03-21T00:01"
+        validThrough: "2020-05-21T23:59"
+        disabled: true
 
 # Footer
 footerBlocks:
@@ -147,7 +159,7 @@ footerBlocks:
   links:
    - {link: "mailto:comms@fsto.co", text: "Email Us"}
  -
-  title: "FAQ"
+  title: "Code of Conduct"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
@@ -161,7 +173,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Bifrost Conference was started to create a place for team leads, tech leads and other leaders within the tech sector to come together and share practical and actionable knowledge. Bifrost Conference is back again for it’s 3rd year in 2019 and we look forward to welcoming you to Toronto for our unique take on event planing and programming!"
+aboutUs: "Bifrost Conference was started to create a place for leaders within the web development sector to come together and share practical and actionable knowledge. Bifrost Conference is back again for it’s 4th year in 2020 and we look forward to welcoming you to Toronto for our unique take on event planing and programming!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -201,7 +213,7 @@ directionDetailsWideCards:
      - {link: "#", text: "Eaton Centre Food Court"}
      - {link: "#", text: "Popeye's"}
    -
-    title: "Networking"
+    title: "Things to Do"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
