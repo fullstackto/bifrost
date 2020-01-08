@@ -134,7 +134,7 @@ ticketsOffers:
         price: "199"
         priceCurrency: "CAD"
         ticketsNumber: "100"
-        buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
+        buyButtonLink: "https://ti.to/fstoco/bifrost-conf-2020"
         buyButtonText: "Buy Now"
         ticketContentList: ["Breakfast", "Access to Event", "Useful Swag", "Networking Opportunities"]
         validFrom: "2020-01-17T00:01"
@@ -145,7 +145,7 @@ ticketsOffers:
         price: "299"
         priceCurrency: "CAD"
         ticketsNumber: "100"
-        buyButtonLink: "https://ti.to/fstoco/2019-bifrost-tech-leadership-conference"
+        buyButtonLink: "https://ti.to/fstoco/bifrost-conf-2020"
         buyButtonText: "Buy Now"
         ticketContentList: ["Breakfast", "Access to Event", "Useful Swag", "Networking Opportunities"]
         validFrom: "2020-03-21T00:01"
