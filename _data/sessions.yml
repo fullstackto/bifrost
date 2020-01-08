@@ -39,3 +39,8 @@
     title: "A Personal development Talk"
     description: "This session will information will come soon but this time is reserved for a talk on how to keep growing yourself"
     speakers: [1]
+-
+    id: 104
+    title: "Lending Privilege"
+    description: "Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. However, this talk will help you understand that, no matter your background, you have privilege and can lend it to underrepresented groups in tech."
+    speakers: [2]

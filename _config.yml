@@ -47,7 +47,7 @@ bottomNavigationLinks:
  - {link: "assets/bifrostsponsorship.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
  - {link: "https://ti.to/fstoco/bifrost-conf-2020", text: "Buy tickets"}
- - {link: "mailto: james.wilkinson@fsto.co", text: "Become a sponsor"}
+ - {link: "assets/bifrostsponsorship.pdf", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -136,7 +136,7 @@ ticketsOffers:
         ticketsNumber: "100"
         buyButtonLink: "https://ti.to/fstoco/bifrost-conf-2020"
         buyButtonText: "Buy Now"
-        ticketContentList: ["Breakfast", "Access to Event", "Useful Swag", "Networking Opportunities"]
+        ticketContentList: ["Access to Event", "Useful Swag", "Networking Opportunities", "More to come"]
         validFrom: "2020-01-17T00:01"
         validThrough: "2020-03-21T23:59"
         disabled: false
@@ -147,7 +147,7 @@ ticketsOffers:
         ticketsNumber: "100"
         buyButtonLink: "https://ti.to/fstoco/bifrost-conf-2020"
         buyButtonText: "Buy Now"
-        ticketContentList: ["Breakfast", "Access to Event", "Useful Swag", "Networking Opportunities"]
+        ticketContentList: ["Access to Event", "Useful Swag", "Networking Opportunities", "More to come"]
         validFrom: "2020-03-21T00:01"
         validThrough: "2020-05-21T23:59"
         disabled: true
@@ -159,9 +159,11 @@ footerBlocks:
   links:
    - {link: "mailto:comms@fsto.co", text: "Email Us"}
  -
-  title: "Code of Conduct"
+  title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "https://www.youtube.com/playlist?list=PLNoTOsTRYfvggW88jKp-Psze91scNmQsj", text: "2017 Videos"}
+   - {link: "https://www.youtube.com/playlist?list=PL1jKW8WyNdz2mfnPikqxfJbLGDuSrUHbd", text: "2018 Videos"}
 
 # Blog
 blogTitle: "Latest news"
