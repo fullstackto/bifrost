@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Bifrost Conf 2020 | Architecting the Leaders of Tomorrow"
+title: "Bifrost Conf 2020 | May 21"
 email: "comms@fsto.co"
 description: "Bifrost conference helps you stay up to date, grow your team, and architect the best solutions! Get your tickets today!"
 baseurl: ""
