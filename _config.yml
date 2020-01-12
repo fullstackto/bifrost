@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Bifrost Conf 2020 | Connecting Leaders"
+title: "Bifrost Conf 2020 | Architecting the Leaders of Tomorrow"
 email: "comms@fsto.co"
-description: "Bifrost conference provides practical training for leaders in web development and those that want to become one!"
+description: "Bifrost conference helps you stay up to date, grow your team, and architect the best solutions! Get your tickets today!"
 baseurl: ""
 url: "https://bifrostconf.com"
 permalink: "/blog/:title"
@@ -60,12 +60,15 @@ heroButtons:
   - {link: "https://www.papercall.io/bifrost-2020", text: "Become a Speaker!"}
   - {link: "assets/bifrostsponsorship.pdf", text: "Become a sponsor"}
 
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Bifrost Conference brings together leaders in web development to share practical and actionable knowledge on growing your team, solution architecting, and keeping yourself up to date. Bifrost conf is back again for our 4th year of practical technical and non-technical talks, inspiration, and great networking!"
 # About Block
-aboutTitle: "The Bifrost connects us, so do Leaders!"
+aboutTitle: "The Bifrost connects us!"
 aboutBlock:
- - {title: "Tools", image: "conference.jpg", text: "We bring you practical and actionable talks on the tools you need to succeed, and tools that you can utilise to make your life a little easier as a people manager or tech lead." }
- - {title: "Leadership", image: "workshop.jpg", text: "Advice from your peers on what works and what doesn't when it comes to leading teams, managing projects, and architecting." }
- - {title: "Growth", image: "hackathon.jpg", text: "It's not all about growing your team to succeed but also your-self. This track focuses on how to keep yourself growing with your team." }
+ - {title: "Solution Architecting", image: "conference.jpg", text: "We bring you practical and actionable talks on the tools you need to succeed." }
+ - {title: "Team Growth", image: "workshop.jpg", text: "Advice from your peers on what works and what doesn't when it comes to leading and growing teams" }
+ - {title: "Personal Growth", image: "hackathon.jpg", text: "Insights into the future of our industry and how to keep everything balanced." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -172,10 +175,6 @@ discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
-
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Bifrost Conference was started to create a place for leaders within the web development sector to come together and share practical and actionable knowledge. Bifrost Conference is back again for it’s 4th year in 2020 and we look forward to welcoming you to Toronto for our unique take on event planing and programming!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
