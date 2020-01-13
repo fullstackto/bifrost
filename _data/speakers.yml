@@ -31,3 +31,14 @@
     rockstar: true
     social:
     - {name: "Twitter", link: "https://twitter.com/aneika"}
+-
+    id: 4
+    name: "Ahmad"
+    surname: "Nassir"
+    company: "npm"
+    title: "CTO"
+    bio: "CTO of npm, Inc. Founder of Tech Masters Community, Member of Node.js Foundation, Advocate of all things Open Source, Startup Advisor, Entrepreneur."
+    thumbnailUrl: ahmad.jpg
+    rockstar: true
+    social:
+    - {name: "Twitter", link: "https://twitter.com/ahmadnassri"}
